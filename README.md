@@ -42,8 +42,8 @@ This creates your own copy of the repo under your GitHub account.
 
 ### Step 3 — Open a Pull Request
 1. Click **Create pull request**.
-2. Title: `Add <DUT MAYOM JOHN DUT> to student list`
-3. In the description, fill in the checklist (DUT MAYOM JOHN DUT, 245, Computer science).
+2. Title: `Add <BENY MARIAL BENY> to student list`
+3. In the description, fill in the checklist (BENY MARIAL BENY, 22-CCS-240, Computer science).
 4. Click **Create pull request**.
 
 ### Step 4 — Wait for review
