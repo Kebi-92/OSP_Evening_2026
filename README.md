@@ -27,7 +27,7 @@ This creates your own copy of the repo under your GitHub account.
 3. Scroll to the **last line** and add your row at the bottom, using this format:
 
    ```
-   <2>,<BACHAM CHAP DENG>,<22-CYS-014>,<CYBER SECURITY>
+   <7>,<BACHAM CHAP DENG>,<22-CYS-014>,<CYBER SECURITY>
    ```
 
    **Example:**
